@@ -55,3 +55,30 @@ A warm, practical guide to Hermes Agent, written as a free gift: from a careful 
 ### Disclaimer
 
 A free gift to the community. Independent and unofficial. Not affiliated with, or endorsed by, Nous Research, or by any other company whose products are named in these pages. “Hermes,” “Hermes Agent,” and related marks belong to their owners.
+
+## Make It Yours
+
+![Make It Yours cover](books/make-it-yours/cover.jpg)
+
+**Make It Yours**  
+A Practical Guide to OpenClaw, Its Community, and the Skills That Compound
+
+By Michael Gannotti  
+Published by SMF Works  
+Final edition, 12 November 2026
+
+Make it yours; keep the yes.
+
+A warm, practical guide to OpenClaw, written as a free gift: from a careful first setup — turning on the built-in LLM Wiki (the bundled memory-wiki plugin) and filling it from a local path — to a practice you make your own, and, when you are ready, to a fleet. Michael Gannotti walks through what OpenClaw is (a self-hosted, MIT-licensed Gateway you run on a machine you control, stewarded by the OpenClaw Foundation), every official way in, first setup and the wiki, a first real job, memory and skills and the loop that learns, the Gateway and the channels you already use, cron and multi-agent work that can run while you sleep, ClawHub and a living commons (2,622 plugins on 12 November 2026), writing your own skills and shipping a plugin, professional and personal how-tos, his own fleet of seven OpenClaw agents (Carol, Rachel, Vai, Randal, Wesley, Parker, and OC) responsible for WisdomForge, running on Grok 4.7 on a MinisForum MiniPC shared with his Hermes fleet, and the safety, privacy, and money rules that have to stay yours. Every how-to says what “done” looks like. You are still the one who says yes. The book is independent and unofficial, and is not for sale.
+
+~5 hours · 273 pages · 79,276 words
+
+### Downloads
+
+- [PDF](books/make-it-yours/make-it-yours.pdf)
+- [EPUB](books/make-it-yours/make-it-yours.epub)
+- [Markdown](books/make-it-yours/make-it-yours.md)
+
+### Disclaimer
+
+A free gift to the community. Independent and unofficial. Not affiliated with, or endorsed by, the OpenClaw Foundation, or by any other organization whose products are named in these pages. “OpenClaw,” “ClawHub,” and related marks belong to their owners.
