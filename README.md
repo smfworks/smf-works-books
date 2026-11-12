@@ -28,3 +28,30 @@ A warm, practical guide to Grok Bot, written as a free gift: how to hand off rea
 ### Disclaimer
 
 A free gift to the community. Independent and unofficial. Not affiliated with, or endorsed by, SpaceX Super Intelligence, xAI, X, or Cursor.
+
+## Grow With It
+
+![Grow With It cover](books/grow-with-it/cover.jpg)
+
+**Grow With It**  
+A Practical Guide to Hermes Agent, from Your First Setup to a Fleet That Learns While You Sleep
+
+By Michael Gannotti  
+Published by SMF Works  
+Final edition, 12 November 2026
+
+Grow the practice; keep the yes.
+
+A warm, practical guide to Hermes Agent, written as a free gift: from a careful first setup — with an LLM Wiki, a notebook you will be glad you started — to a practice that can grow, and, when you are ready, to a fleet that keeps learning after you close the lid. Michael Gannotti walks through what Hermes is (the harness, not only the model), every official way in, first setup and the vault, a first real job, memory and skills and the loop that learns, the messaging gateway, cron and subagents, the plugin catalog and a living commons (2,144 plugins on the afternoon of 12 November 2026, and a November hackathon of nearly 1,000 entries), writing your own skills, six professional and six personal how-tos, his own fleet of twenty-nine Hermes agents (GLM 5.3 Flash, local on two NVIDIA DGX Sparks; the fleet on a MinisForum MiniPC running Omarchy Linux; Hermes Desktop on an older Surface Laptop), and the safety, privacy, and money rules that have to stay yours. Every how-to says what “done” looks like. You are still the one who says yes. The book is independent and unofficial, and is not for sale.
+
+~6 hours · 259 pages · 90,094 words
+
+### Downloads
+
+- [PDF](books/grow-with-it/grow-with-it.pdf)
+- [EPUB](books/grow-with-it/grow-with-it.epub)
+- [Markdown](books/grow-with-it/grow-with-it.md)
+
+### Disclaimer
+
+A free gift to the community. Independent and unofficial. Not affiliated with, or endorsed by, Nous Research, or by any other company whose products are named in these pages. “Hermes,” “Hermes Agent,” and related marks belong to their owners.
