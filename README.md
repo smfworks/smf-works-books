@@ -1,6 +1,6 @@
 # SMF Works Books
 
-Free books from SMF Works for the community.
+A growing collection of free books from SMF Works. We explore how humans and AI can actually work together, and we write the practical guides that put that power in the hands of everyday people.
 
 ## Hand It Off
 
