@@ -82,3 +82,30 @@ A warm, practical guide to OpenClaw, written as a free gift: from a careful firs
 ### Disclaimer
 
 A free gift to the community. Independent and unofficial. Not affiliated with, or endorsed by, the OpenClaw Foundation, or by any other organization whose products are named in these pages. “OpenClaw,” “ClawHub,” and related marks belong to their owners.
+
+## Run With It
+
+![Run With It cover](books/run-with-it/cover.jpg)
+
+**Run With It**  
+A Practical Guide to Omarchy Linux, Its Community, and the Agent-First Desktop
+
+By Michael Gannotti  
+Published by SMF Works  
+Final edition, 12 November 2026
+
+The machine is yours; you are still the one who says yes.
+
+A warm, practical guide to Omarchy Linux, written as a free gift: from a finished, official agentic desktop and every official way to install it, through the first-run invitation to choose an agent — Claude, Codex, or Grok — and a first real week at the Super key, to the crash handoff and “tell your AI,” themes and unsandboxed plugins, a hardware map, and a whole chapter on giving an older machine a second life. Michael Gannotti walks through professional and personal how-tos, including games, then staying current, staying safe, and giving something back. His own first evening is in these pages only as he told it: he chose Grok Build, clicked a crash popup, and the app came back. Five SMF Works machines run Omarchy, including the MinisForum MiniPC that hosts his Hermes and OpenClaw fleets, with Grok Bot and Grok Build on every Omarchy machine. A collaborator’s applications and plugins are mentioned generally, without names. Community figures are dated 12 November 2026 (Omarchy 4.5.0, 851 themes, and the rest). “Agentic” is the official word; this book does not call Omarchy “the first.” It is independent and unofficial, and is not for sale.
+
+~5 hours · 252 pages · 85,650 words
+
+### Downloads
+
+- [PDF](books/run-with-it/run-with-it.pdf)
+- [EPUB](books/run-with-it/run-with-it.epub)
+- [Markdown](books/run-with-it/run-with-it.md)
+
+### Disclaimer
+
+A free gift to the community. Independent and unofficial. Not affiliated with, or endorsed by, the Omacom Foundation, David Heinemeier Hansson, 37signals, or any other organization whose products are named in these pages. “Omarchy,” “Omacom,” “Omarchy M,” “Omarchy Dragon,” “Omakub,” and related marks belong to their owners.
