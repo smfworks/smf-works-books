@@ -109,3 +109,30 @@ A warm, practical guide to Omarchy Linux, written as a free gift: from a finishe
 ### Disclaimer
 
 A free gift to the community. Independent and unofficial. Not affiliated with, or endorsed by, the Omacom Foundation, David Heinemeier Hansson, 37signals, or any other organization whose products are named in these pages. “Omarchy,” “Omacom,” “Omarchy M,” “Omarchy Dragon,” “Omakub,” and related marks belong to their owners.
+
+## The Vault Is the Agent
+
+![The Vault Is the Agent cover](books/the-vault-is-the-agent/cover.jpg)
+
+**The Vault Is the Agent**  
+A Practical Guide to LLM Wikis, Second Brains, and AI Agents That Grow With You
+
+By Michael Gannotti  
+Published by SMF Works  
+Final edition, 14 November 2026
+
+The notebook, not the model.
+
+A warm, practical guide to giving AI agents a memory you can read. Michael Gannotti starts from one idea: the most important part of an autonomous agent isn't the model, it's the notebook. From the memex and Luhmann's slip box to Karpathy's LLM Wiki idea file, and through what the 2025 and 2026 research does and doesn't support, the book shows how to build a plain-Markdown vault with a schema, an index and a log, then run it on Hermes Agent, Grok Bot, OpenClaw, Claude Code, Codex, Grok Build or an agent of your own. Chapters cover daily capture, nightly research, dreams and reflection, scouts that read before they answer, a weekly lint that keeps pages true, and the add-ons worth knowing beyond Obsidian. It closes with the model-swap test, a proposed experiment for checking whether the vault really carries the agent. Every recipe tells you what you should see, every claim is sourced, preprints are labelled as preprints, and boxes marked In my setup show how Michael's own agents (Aiona, Liam, Nemo and Charlie Chief) work. The book is free and not for sale.
+
+~6 hours · 296 pages
+
+### Downloads
+
+- [PDF](books/the-vault-is-the-agent/the-vault-is-the-agent.pdf)
+- [EPUB](books/the-vault-is-the-agent/the-vault-is-the-agent.epub)
+- [Markdown](books/the-vault-is-the-agent/the-vault-is-the-agent.md)
+
+### Disclaimer
+
+A free gift to the community from SMF Works. Independent and unofficial. Not affiliated with, or endorsed by, Nous Research, the OpenClaw maintainers, Obsidian, the makers of Grok Bot and Grok Build, or any other organization whose products are named in these pages. Product names belong to their owners.
