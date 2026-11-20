@@ -136,3 +136,30 @@ A warm, practical guide to giving AI agents a memory you can read. Michael Ganno
 ### Disclaimer
 
 A free gift to the community from SMF Works. Independent and unofficial. Not affiliated with, or endorsed by, Nous Research, the OpenClaw maintainers, Obsidian, the makers of Grok Bot and Grok Build, or any other organization whose products are named in these pages. Product names belong to their owners.
+
+## Ship It
+
+![Ship It cover](books/ship-it/cover.jpg)
+
+**Ship It**  
+iOS Development from Beginner to Mastery
+
+By Michael Gannotti  
+Published by SMF Works  
+Final edition, November 20, 2026
+
+Learn the craft first, then let AI help. You stay the author.
+
+A warm, plain-English path from "I've never written code" to an app on the App Store. Michael Gannotti starts with the good news: Apple's tools are free, and you can run your own app on your own iPhone without paying anything. Then the book climbs a ladder of small, real projects: a tip and split calculator, a quiz game, and Daybook, a habit journal that grows chapter by chapter into an app with saved data, live weather, accessibility, tests, a widget, Siri and Shortcuts, and on-device intelligence from Apple's Foundation Models framework. You learn Swift and SwiftUI first, and only then bring in AI helpers: Xcode 27's built-in agents, which plan before they build and prove their work with tests and previews, and a wider crew of Claude, ChatGPT, Grok Bot, Hermes Agent and OpenClaw. A whole chapter teaches you to catch confident-but-wrong answers. The last stretch covers signing, TestFlight, App Review and Xcode Cloud, and a practice that lasts. Every fact is sourced and dated as of November 2026, every screen figure is a drawn schematic rather than a screenshot, and the book is free and not for sale.
+
+~6 hours · 323 pages
+
+### Downloads
+
+- [PDF](books/ship-it/ship-it.pdf)
+- [EPUB](books/ship-it/ship-it.epub)
+- [Markdown](books/ship-it/ship-it.md)
+
+### Disclaimer
+
+A free gift to the community from SMF Works. Independent and unofficial. Not affiliated with, or endorsed by, Apple, Anthropic, OpenAI, Google, Nous Research, the OpenClaw Foundation, the makers of Grok Bot, Hacking with Swift, Stanford or Kodeco. Product names belong to their owners.
